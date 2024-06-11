@@ -177,4 +177,7 @@ h4 {
     font-size: 1.8em;
     margin-bottom: 0;
   }
-}
+  #google-form
+  {
+    max-height: 800px;
+  }
